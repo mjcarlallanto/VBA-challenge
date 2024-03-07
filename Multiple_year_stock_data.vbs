@@ -1,4 +1,7 @@
 Attribute VB_Name = "Module1"
+
+===========================================================
+
 Sub runAll()
 
 Call summary
@@ -6,6 +9,9 @@ Call stocks
 Call bonus
 
 End Sub
+
+===========================================================
+
 Sub summary()
 
   Dim ws As Worksheet
@@ -74,6 +80,8 @@ Sub summary()
 Next ws
 End Sub
 
+===========================================================
+
 Sub stocks()
 
 Dim ws As Worksheet
@@ -114,6 +122,8 @@ For Each ws In ThisWorkbook.Worksheets
     Next I
 Next ws
 End Sub
+
+===========================================================
 
 Sub bonus()
 
