@@ -8,7 +8,8 @@ Sub runAll()
 
 Reference:
 Call/Run a Sub from another Sub
-**https://www.automateexcel.com/vba/call-sub-from-another-sub/**
+https://www.automateexcel.com/vba/call-sub-from-another-sub/
+
 ===========================================================
 
 Sub summary()
@@ -22,5 +23,6 @@ Sub bonus()
 
 Reference:
 Looping through all sheets
-**Class_3_Activities > 07-Stu_Census_Pt1 > census_pt1_solution.vbs**
+Class_3_Activities > 07-Stu_Census_Pt1 > census_pt1_solution.vbs
+
 ===========================================================
